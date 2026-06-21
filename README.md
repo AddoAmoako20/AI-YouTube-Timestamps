@@ -10,9 +10,9 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 
 📥 Learn how to easily download a GitHub repository in just 2 minutes with this guide: [https://youtu.be/m0wi6zf21FU](https://youtu.be/m0wi6zf21FU)
 
-## 📝 Lessons
+## 📝 Lessons 
 
-All lessons are available on YouTube. Click any title to watch:
+All lessons are available on YouTube.
 > 👍 **Like & Subscribe:** It’s free! 🤠
 
 1. 🧱 **Tech Stack (10 min):** [Watch on YouTube](https://youtu.be/ZFtoJIQdmC4)  
